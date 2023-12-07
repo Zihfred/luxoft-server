@@ -16,7 +16,7 @@ const HOST = "localhost";
 async function start() {
   try {
     app.listen(PORT, () =>
-      console.log(`Server running at http://${HOST}:${PORT}/`)
+      console.log(`Server runniцng at http://${HOST}:${PORT}/`)
     );
   } catch (e) {
     console.log("Server Error", e.message);
