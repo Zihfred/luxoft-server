@@ -20,3 +20,5 @@ package-lock.json
 .eslintcache
 
 .idea
+# Local Netlify folder
+.netlify
